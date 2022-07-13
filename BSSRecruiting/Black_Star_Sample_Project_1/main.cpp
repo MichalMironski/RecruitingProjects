@@ -12,7 +12,7 @@ int main()
 {
     ::SendMessage(::GetConsoleWindow(), WM_SYSKEYDOWN, VK_RETURN, 0x20000000); //Fullscreen cmd
 
-    initializeMatrices();
+    initializeMatrices(); //UI.cpp
 
     return 0;
 }
