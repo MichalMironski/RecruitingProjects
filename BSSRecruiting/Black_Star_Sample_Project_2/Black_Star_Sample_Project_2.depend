@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1657697073 source:c:\users\mmironsx\onedrive - intel corporation\documents\codeblocks\projekt\black_star_sample_project_2\main.cpp
+	<iostream>
+	<fstream>
+	"files.h"
+
+1657698118 c:\users\mmironsx\onedrive - intel corporation\documents\codeblocks\projekt\black_star_sample_project_2\files.h
+	<iostream>
+	<fstream>
+
+1657698705 source:c:\users\mmironsx\onedrive - intel corporation\documents\codeblocks\projekt\black_star_sample_project_2\files.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	"files.h"
+

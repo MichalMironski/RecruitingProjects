@@ -1,0 +1,104 @@
+# depslib dependency file v1.0
+1657628330 source:c:\users\mmironsx\onedrive - intel corporation\documents\codeblocks\projekt\project3\event.cpp
+	<iostream>
+	<string>
+	"event.h"
+
+1657629283 c:\users\mmironsx\onedrive - intel corporation\documents\codeblocks\projekt\project3\event.h
+	<iostream>
+
+1657641628 source:c:\users\mmironsx\onedrive - intel corporation\documents\codeblocks\projekt\project3\ui.cpp
+	<iostream>
+	<windows.h>
+	<mysql.h>
+	"UI.h"
+	"dbActions.h"
+
+1657655182 c:\users\mmironsx\onedrive - intel corporation\documents\codeblocks\projekt\project3\ui.h
+	<iostream>
+	<windows.h>
+	<mysql.h>
+
+1657655176 source:c:\users\mmironsx\onedrive - intel corporation\documents\codeblocks\projekt\project3\main.cpp
+	<iostream>
+	<windows.h>
+	<mysql.h>
+	"UI.h"
+	"dbActions.h"
+
+1476096933 c:\program files\codeblocks\mingw\include\mysql.h
+	<sys/types.h>
+	<winsock.h>
+	"mysql_com.h"
+	"mysql_time.h"
+	"mysql_version.h"
+	"typelib.h"
+	"my_list.h"
+	"my_alloc.h"
+
+1476096946 c:\program files\codeblocks\mingw\include\mysql_com.h
+
+1476096972 c:\program files\codeblocks\mingw\include\mysql_time.h
+
+1476096983 c:\program files\codeblocks\mingw\include\mysql_version.h
+	<custom_conf.h>
+
+1476097123 c:\program files\codeblocks\mingw\include\typelib.h
+
+1476097168 c:\program files\codeblocks\mingw\include\my_list.h
+
+1476097177 c:\program files\codeblocks\mingw\include\my_alloc.h
+
+1657655181 c:\users\mmironsx\onedrive - intel corporation\documents\codeblocks\projekt\project3\dbactions.h
+	<iostream>
+	<windows.h>
+	<mysql.h>
+
+1657655834 source:c:\users\mmironsx\onedrive - intel corporation\documents\codeblocks\projekt\project3\dbactions.cpp
+	<iostream>
+	<iomanip>
+	<windows.h>
+	<mysql.h>
+	<sstream>
+	"event.h"
+
+1657655176 source:c:\users\mmironsx\onedrive - intel corporation\documents\codeblocks\projekt\black_star_sample_project_3\main.cpp
+	<iostream>
+	<windows.h>
+	<mysql.h>
+	"UI.h"
+	"dbActions.h"
+
+1657655182 c:\users\mmironsx\onedrive - intel corporation\documents\codeblocks\projekt\black_star_sample_project_3\ui.h
+	<iostream>
+	<windows.h>
+	<mysql.h>
+
+1657655181 c:\users\mmironsx\onedrive - intel corporation\documents\codeblocks\projekt\black_star_sample_project_3\dbactions.h
+	<iostream>
+	<windows.h>
+	<mysql.h>
+
+1657641628 source:c:\users\mmironsx\onedrive - intel corporation\documents\codeblocks\projekt\black_star_sample_project_3\ui.cpp
+	<iostream>
+	<windows.h>
+	<mysql.h>
+	"UI.h"
+	"dbActions.h"
+
+1657698543 source:c:\users\mmironsx\onedrive - intel corporation\documents\codeblocks\projekt\black_star_sample_project_3\event-not_used_in_final.cpp
+	<iostream>
+	<string>
+	"event-not_used_in_final.h"
+
+1657629283 c:\users\mmironsx\onedrive - intel corporation\documents\codeblocks\projekt\black_star_sample_project_3\event-not_used_in_final.h
+	<iostream>
+
+1657698550 source:c:\users\mmironsx\onedrive - intel corporation\documents\codeblocks\projekt\black_star_sample_project_3\dbactions.cpp
+	<iostream>
+	<iomanip>
+	<windows.h>
+	<mysql.h>
+	<sstream>
+	"event-not_used_in_final.h"
+

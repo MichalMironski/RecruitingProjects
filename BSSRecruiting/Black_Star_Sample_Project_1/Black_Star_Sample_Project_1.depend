@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1657657017 source:c:\users\mmironsx\onedrive - intel corporation\documents\codeblocks\projekt\black_star_sample_project_1\main.cpp
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	"matrix.h"
+	"otherFunctions.h"
+	"UI.h"
+
+1657656294 c:\users\mmironsx\onedrive - intel corporation\documents\codeblocks\projekt\black_star_sample_project_1\matrix.h
+	<iostream>
+	<vector>
+
+1657656769 c:\users\mmironsx\onedrive - intel corporation\documents\codeblocks\projekt\black_star_sample_project_1\otherfunctions.h
+	<iostream>
+
+1657023575 source:c:\users\mmironsx\onedrive - intel corporation\documents\codeblocks\projekt\black_star_sample_project_1\otherfunctions.cpp
+	<iostream>
+
+1657656769 source:c:\users\mmironsx\onedrive - intel corporation\documents\codeblocks\projekt\black_star_sample_project_1\matrix.cpp
+	<iostream>
+	<vector>
+	<random>
+	"matrix.h"
+	"otherFunctions.h"
+
+1657656957 c:\users\mmironsx\onedrive - intel corporation\documents\codeblocks\projekt\black_star_sample_project_1\ui.h
+	<iostream>
+
+1657657779 source:c:\users\mmironsx\onedrive - intel corporation\documents\codeblocks\projekt\black_star_sample_project_1\ui.cpp
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	"matrix.h"
+
+1657211355 source:c:\users\mmironsx\onedrive - intel corporation\documents\codeblocks\projekt\black_star_sample_project_1\matrixbackup.cpp
+	<iostream>
+	<vector>
+	<random>
+	"matrix.h"
+	"otherFunctions.h"
+
